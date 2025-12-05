@@ -13,7 +13,7 @@ text-align: center;
 } /* condensed to save space */
 
 projects h2{
-    width: 80%;
+    width: 100%;
 }
 .project {
     /*form blob section*/
@@ -29,9 +29,9 @@ border-radius: 25%;
 }
 .project img{
 width: 400px;
-height: 300px;
+height: 400px;
 margin: 10px auto;
-border: 5px solid palevioletred; 
+border: 3px solid palevioletred; 
 display: block;
 text-align: center;
 }
