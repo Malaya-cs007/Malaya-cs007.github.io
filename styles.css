@@ -1,10 +1,10 @@
 
 body{
     background: seagreen;
-    font-family:Ariall, Helvetica, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
 }
 h1 {
-color: coral;
+color: navy;
 text-align: center;
 }
 .projects { 
